@@ -18,7 +18,7 @@ jobs:
       - name: 풀이 레포 가져오기
         uses: actions/checkout@v7
         with:
-          repository: Hiri-kor/algorithm
+          repository: macarondongwoo/algorithm
           path: algorithm
 
       - name: 파이썬 준비

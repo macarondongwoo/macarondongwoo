@@ -8,7 +8,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 # ── 설정 ──────────────────────────────────────────────
-REPO_URL = "https://github.com/Hiri-kor/algorithm/tree/main"
+REPO_URL = "https://github.com/macarondongwoo/algorithm/tree/main"
 RECENT_COUNT = 5  # 최근 몇 문제를 보여줄지
 START = "<!-- SOLVED:START -->"
 END = "<!-- SOLVED:END -->"
